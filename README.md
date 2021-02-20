@@ -1,3 +1,3 @@
 # hello-world
 skusobny repozitar podla GitHub guide
-branch readme-edits
+branch readme-edits prinasa zmenu
